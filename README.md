@@ -1,14 +1,13 @@
 # TPI — Análisis de Señales de Voz con Transformada de Fourier
 
-Trabajo Práctico Integrador de la materia Señales y Sistemas (o afín).  
+Trabajo Práctico Integrador de la materia Señales y Sistemas.
 Análisis de señales de voz usando la Transformada de Fourier (DFT / FFT) con Python.
 
 ---
 
 ## Objetivo
 
-Explorar, preprocesar y representar señales de audio en el dominio de la frecuencia mediante la Transformada de Fourier, y extraer conclusiones sobre sus características espectrales.
-
+???
 ---
 
 ## Estructura del proyecto

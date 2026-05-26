@@ -14,7 +14,7 @@ Análisis de señales de voz usando la Transformada de Fourier (DFT / FFT) con P
 ## Estructura del proyecto
 
 ```
-tpi-voz-tf/
+TPI-voz-SyS/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt

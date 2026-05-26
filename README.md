@@ -18,7 +18,7 @@ tpi-voz-tf/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
-├── data/                  # Audios de entrada (no incluidos en el repo)
+├── data/                  # base de datos
 ├── notebooks/
 │   ├── 01_exploracion.ipynb           # Carga y visualización inicial
 │   ├── 02_preprocesamiento.ipynb      # Filtrado, normalización, segmentación
@@ -58,11 +58,17 @@ pip install -r requirements.txt
 
 Los audios **no están incluidos** en el repositorio (están en `.gitignore`).  
 Pueden obtenerse de:
-- Grabaciones propias en formato `.wav`
-- Datasets públicos como [LibriSpeech](https://www.openslr.org/12) o [VoxForge](http://www.voxforge.org/)
-
+- ...
 ---
 
 ## Autores
 
-- Mateo Anderson
+- Anderson Mateo
+- Corona Abigail
+- Degiorgio Eduardo
+- de la Casa Javier
+- Garces Antar Zahira
+- Gerbaudo Sabina
+- Lopez Lascurain Ema
+- Vela Santiago
+

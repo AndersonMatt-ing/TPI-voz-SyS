@@ -64,6 +64,8 @@ Pueden obtenerse de:
 ## Autores
 
 - Anderson Mateo
+- Cabrera Norberto
+- Cazon Jonatan
 - Corona Abigail
 - Degiorgio Eduardo
 - de la Casa Javier

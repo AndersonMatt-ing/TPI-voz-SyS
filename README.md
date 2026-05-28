@@ -2,7 +2,7 @@
 
 Trabajo Práctico Integrador de la materia Señales y Sistemas.
 
-Análisis de señales de voz usando la Transformada de Fourier (DFT / FFT) con Python.
+Análisis de señales de voz usando ***????*** con Python.
 
 ---
 
